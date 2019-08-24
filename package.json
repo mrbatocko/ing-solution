@@ -1,0 +1,29 @@
+{
+  "name": "ing-solution",
+  "version": "1.0.0",
+  "description": "A test solution for test project",
+  "main": "dist/index.js",
+  "scripts": {
+    "dev": "env $(cat .env) nodemon --ignore 'lib/src/client/*' --exec NODE_ENV=development babel-node lib/index.js",
+    "seed": "env $(cat .env) babel-node lib/src/seeders/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "batocko93@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.5.5",
+    "@babel/core": "^7.5.5",
+    "@babel/node": "^7.5.5",
+    "@babel/preset-env": "^7.5.5",
+    "nodemon": "^1.19.1"
+  },
+  "dependencies": {
+    "bcrypt": "^3.0.6",
+    "cors": "^2.8.5",
+    "dotenv": "^8.1.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.6.9",
+    "morgan": "^1.9.1"
+  }
+}

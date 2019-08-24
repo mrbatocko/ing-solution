@@ -1,0 +1,65 @@
+/* White text */
+.white {
+  color: white;
+}
+/* ---------- */
+
+/* Red text */
+.red {
+  color: var(--red);
+}
+.red-light {
+  color: var(--red-light);
+}
+.red-dark {
+  color: var(--red-dark);
+}
+/* --------------- */
+
+/* Green text */
+.green {
+  color: var(--green);
+}
+.green-light {
+  color: var(--green-light);
+}
+.green-dark {
+  color: var(--green-dark);
+}
+/* --------------- */
+
+/* Blue text */
+.blue {
+  color: var(--blue);
+}
+.blue-light {
+  color: var(--blue-light);
+}
+.blue-dark {
+  color: var(--blue-dark);
+}
+/* --------------- */
+
+/* Black text */
+.black {
+  color: var(--black);
+}
+.black-light {
+  color: var(--black-light);
+}
+.black-dark {
+  color: var(--black-dark);
+}
+/* --------------- */
+
+/* Grey text */
+.grey {
+  color: var(--grey);
+}
+.grey-light {
+  color: var(--grey-light);
+}
+.grey-dark {
+  color: var(--grey-dark);
+}
+/* --------------- */

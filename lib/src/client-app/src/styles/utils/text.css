@@ -1,0 +1,88 @@
+/* Sizes */
+.text-base {
+  font-size: var(--text-base);
+}
+.text-sm {
+  font-size: var(--text-sm);
+}
+.text-md {
+  font-size: var(--text-md);
+}
+.text-lg {
+  font-size: var(--text-lg);
+}
+.text-xl {
+  font-size: var(--text-xl);
+}
+/* ----- */
+
+/* Aligns */
+.text-center {
+  text-align: center;
+}
+.text-left {
+  text-align: left;
+}
+.text-right {
+  text-align: right;
+}
+.vertical-middle {
+  vertical-align: middle;
+}
+.vertical-bottom {
+  vertical-align: bottom;
+}
+.vertical-baseline {
+  vertical-align: baseline;
+}
+.vertical-top {
+  vertical-align: top;
+}
+/* ------ */
+
+/* Weights */
+.text-hairline {
+  font-weight: 100;
+}
+.text-thin {
+  font-weight: 300;
+}
+.text-normal {
+  font-weight: 400;
+}
+.text-semi-bold {
+  font-weight: 500;
+}
+.text-bold {
+  font-weight: 600;
+}
+.text-bolder {
+  font-weight: 700;
+}
+.text-extra-bold {
+  font-weight: 800;
+}
+/* ------- */
+
+/* Decorations */
+.underline {
+  text-decoration: underline;
+}
+.no-decoration {
+  text-decoration: none;
+}
+.line-through {
+  text-decoration: line-through;
+}
+
+/* Transforms */
+.uppercase {
+  text-transform: uppercase;
+}
+.lowercase {
+  text-transform: lowercase;
+}
+.capitalize {
+  text-transform: capitalize;
+}
+/* ---------- */

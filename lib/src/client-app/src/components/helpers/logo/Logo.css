@@ -1,0 +1,12 @@
+.appLogo {
+  transform: scale(.7);
+}
+
+.logoFirstLine {
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+.logoSecondLine {
+  letter-spacing: .5px;
+}

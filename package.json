@@ -4,7 +4,7 @@
   "description": "A test solution for test project",
   "main": "dist/index.js",
   "scripts": {
-    "dev": "env $(cat .env) nodemon --ignore 'lib/src/client/*' --exec NODE_ENV=development babel-node lib/index.js",
+    "dev": "env $(cat .env) nodemon --ignore 'lib/src/client-app/*' --exec NODE_ENV=development babel-node lib/index.js",
     "seed": "env $(cat .env) babel-node lib/src/seeders/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },

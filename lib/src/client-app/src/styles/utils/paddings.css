@@ -1,0 +1,92 @@
+/* Reset to zero value */
+.p-0 {
+  padding: 0;
+}
+.pt-0 {
+  padding-top: 0;
+}
+.pr-0 {
+  padding-right: 0;
+}
+.pb-0 {
+  padding-bottom: 0;
+}
+.pl-0 {
+  padding-left: 0;
+}
+/* ------------------- */
+
+/* All around scale */
+.p-1 {
+  padding: var(--sm-margins-and-paddings);
+}
+.p-2 {
+  padding: var(--md-margins-and-paddings);
+}
+.p-3 {
+  padding: var(--lg-margins-and-paddings);
+}
+.p-4 {
+  padding: var(--xl-margins-and-paddings);
+}
+/* ---------------- */
+
+/* Top scale */
+.pt-1 {
+  padding-top: var(--sm-margins-and-paddings);
+}
+.pt-2 {
+  padding-top: var(--md-margins-and-paddings);
+}
+.pt-3 {
+  padding-top: var(--lg-margins-and-paddings);
+}
+.pt-4 {
+  padding-top: var(--xl-margins-and-paddings);
+}
+/* ------------------- */
+
+/* Right scale */
+.pr-1 {
+  padding-right: var(--sm-margins-and-paddings);
+}
+.pr-2 {
+  padding-right: var(--md-margins-and-paddings);
+}
+.pr-3 {
+  padding-right: var(--lg-margins-and-paddings);
+}
+.pr-4 {
+  padding-right: var(--xl-margins-and-paddings);
+}
+/* ------------------- */
+
+/* Bottom scale */
+.pb-1 {
+  padding-bottom: var(--sm-margins-and-paddings);
+}
+.pb-2 {
+  padding-bottom: var(--md-margins-and-paddings);
+}
+.pb-3 {
+  padding-bottom: var(--lg-margins-and-paddings);
+}
+.pb-4 {
+  padding-bottom: var(--xl-margins-and-paddings);
+}
+/* ------------------- */
+
+/* Left scale */
+.pl-1 {
+  padding-left: var(--sm-margins-and-paddings);
+}
+.pl-2 {
+  padding-left: var(--md-margins-and-paddings);
+}
+.pl-3 {
+  padding-left: var(--lg-margins-and-paddings);
+}
+.pl-4 {
+  padding-left: var(--xl-margins-and-paddings);
+}
+/* ------------------- */

@@ -1,0 +1,63 @@
+.bg-transparent {
+  background-color: transparent;
+}
+
+/* Red backgrounds */
+.bg-red {
+  background-color: var(--red);
+}
+.bg-red-light {
+  background-color: var(--red-light);
+}
+.bg-red-dark {
+  background-color: var(--red-dark);
+}
+/* --------------- */
+
+/* Green backgrounds */
+.bg-green {
+  background-color: var(--green);
+}
+.bg-green-light {
+  background-color: var(--green-light);
+}
+.bg-green-dark {
+  background-color: var(--green-dark);
+}
+/* --------------- */
+
+/* Blue backgrounds */
+.bg-blue {
+  background-color: var(--blue);
+}
+.bg-blue-light {
+  background-color: var(--blue-light);
+}
+.bg-blue-dark {
+  background-color: var(--blue-dark);
+}
+/* --------------- */
+
+/* Black backgrounds */
+.bg-black {
+  background-color: var(--black);
+}
+.bg-black-light {
+  background-color: var(--black-light);
+}
+.bg-black-dark {
+  background-color: var(--black-dark);
+}
+/* --------------- */
+
+/* Grey backgrounds */
+.bg-grey {
+  background-color: var(--grey);
+}
+.bg-grey-light {
+  background-color: var(--grey-light);
+}
+.bg-grey-dark {
+  background-color: var(--grey-dark);
+}
+/* --------------- */

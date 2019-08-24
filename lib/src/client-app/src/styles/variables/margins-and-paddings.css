@@ -1,0 +1,6 @@
+:root {
+  --sm-margins-and-paddings: .5rem;
+  --md-margins-and-paddings: 1rem;
+  --lg-margins-and-paddings: 2rem;
+  --xl-margins-and-paddings: 4rem;
+}

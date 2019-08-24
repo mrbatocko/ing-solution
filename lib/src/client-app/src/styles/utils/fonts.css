@@ -1,0 +1,6 @@
+.font-base {
+  font-family: var(--font-base);
+}
+.font-mono {
+  font-family: var(--font-mono);
+}

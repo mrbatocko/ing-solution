@@ -1,0 +1,31 @@
+:root {
+  /* Reds */
+  --red: #e0225e;
+  --red-light: #f95689;
+  --red-dark: #bf003c;
+  /* ---- */
+
+  /* Greens */
+  --green: #22e0a4;
+  --green-light: #6bf1c6;
+  --green-dark: #15bd87;
+  /* ---- */
+
+  /* Blues */
+  --blue: #22a1e0;
+  --blue-light: #63c6f7;
+  --blue-dark: #118ac5;
+  /* ---- */
+
+  /* Blacks */
+  --black: #444444;
+  --black-light: #636363;
+  --black-dark: #111111;
+  /* ---- */
+
+  /* Greys */
+  --grey: #e4e3e3;
+  --grey-light: #f9f9f9;
+  --grey-dark: #c7c7c7;
+  /* ---- */
+}

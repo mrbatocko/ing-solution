@@ -1,0 +1,77 @@
+/* Reset to zero value */
+.m-0 {
+  margin: 0;
+}
+.mt-0 {
+  margin-top: 0;
+}
+.mr-0 {
+  margin-right: 0;
+}
+.mb-0 {
+  margin-bottom: 0;
+}
+.ml-0 {
+  margin-left: 0;
+}
+/* ------------------- */
+
+/* Top scale */
+.mt-1 {
+  margin-top: var(--sm-margins-and-paddings);
+}
+.mt-2 {
+  margin-top: var(--md-margins-and-paddings);
+}
+.mt-3 {
+  margin-top: var(--lg-margins-and-paddings);
+}
+.mt-4 {
+  margin-top: var(--xl-margins-and-paddings);
+}
+/* ------------------- */
+
+/* Right scale */
+.mr-1 {
+  margin-right: var(--sm-margins-and-paddings);
+}
+.mr-2 {
+  margin-right: var(--md-margins-and-paddings);
+}
+.mr-3 {
+  margin-right: var(--lg-margins-and-paddings);
+}
+.mr-4 {
+  margin-right: var(--xl-margins-and-paddings);
+}
+/* ------------------- */
+
+/* Bottom scale */
+.mb-1 {
+  margin-bottom: var(--sm-margins-and-paddings);
+}
+.mb-2 {
+  margin-bottom: var(--md-margins-and-paddings);
+}
+.mb-3 {
+  margin-bottom: var(--lg-margins-and-paddings);
+}
+.mb-4 {
+  margin-bottom: var(--xl-margins-and-paddings);
+}
+/* ------------------- */
+
+/* Left scale */
+.ml-1 {
+  margin-left: var(--sm-margins-and-paddings);
+}
+.ml-2 {
+  margin-left: var(--md-margins-and-paddings);
+}
+.ml-3 {
+  margin-left: var(--lg-margins-and-paddings);
+}
+.ml-4 {
+  margin-left: var(--xl-margins-and-paddings);
+}
+/* ------------------- */

@@ -1,0 +1,22 @@
+.postsLayout {
+  display: flex;
+}
+.postsList {
+  padding-right: 2rem;
+}
+
+@media screen and (max-width: 768px) {
+  .postsLayout {
+    padding: 0 1rem;
+    display: flex;
+    flex-direction: column-reverse;
+  }
+  .postsList {
+    padding-right: 0;
+    padding-top: 1rem;
+  }
+  .postsFilters {
+    padding-left: 0 !important;
+    border-left: none !important;
+  }
+}

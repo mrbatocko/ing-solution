@@ -1,0 +1,18 @@
+.filters {
+  width: 200px;
+}
+.mobileFiltersToggle {
+  display: none;
+}
+
+@media screen and (max-width: 768px) {
+  .filters {
+    width: 100%;
+  }
+  .mobileFiltersToggle {
+    display: block;
+  }
+  .fieldsMobileInactive {
+    display: none;
+  }
+}

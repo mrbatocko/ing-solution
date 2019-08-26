@@ -1,0 +1,26 @@
+.modalContent {
+  position: absolute;
+  background-color: white;
+  top: 4rem;
+  left: 50%;
+  transform: translate3d(-50%, 0, 0);
+  max-height: 80vh;
+}
+
+@media screen and (max-width: 768px) {
+  .postFormComponent {
+    padding: 0 1rem;
+  }
+  .postFormActivator {
+    margin-bottom: 0px !important;
+  }
+  .modalContent {
+    outline: none;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    transform: translate3d(0, 0, 0);
+    padding: 2rem;
+  }
+}

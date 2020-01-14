@@ -1,4 +1,5 @@
 .env
 .DS_Store
-/lib/src/client-app/.node_modules/*
-node_modules
+/lib/src/client-app/node_modules
+/lib/src/client-app/build
+/node_modules
